@@ -18,6 +18,8 @@ public class TileGenerator : MonoBehaviour
 
     void Start()
     {
+        GameController.controller.XBound = x / 2f;
+        GameController.controller.YBound = y / 2f;
         GenerateTiles();
     }
 
