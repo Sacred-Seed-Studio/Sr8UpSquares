@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tiles
+    uniqueID: 2119691419
+    locked: 0
+  - name: Enemies
+    uniqueID: 2877231885
+    locked: 0
+  - name: Items
+    uniqueID: 825213603
+    locked: 0
+  - name: Player
+    uniqueID: 2122936293
+    locked: 0
